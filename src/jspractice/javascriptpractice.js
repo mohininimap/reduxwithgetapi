@@ -30,3 +30,63 @@ switch (today) {
     default:
         document.write(`day is very happy today`);
 }
+// --------------------------
+// var a=10;
+
+// function fun1(){
+//  console.log(a) 
+// }
+
+// fun1() //output is 10
+
+// ------------------------
+// a=10;
+
+// function fun1(){
+//  console.log(a) 
+// }
+
+// fun1() //output 10
+// ---------------------------
+// console.log(a)
+
+// function fun1(){
+//  var a=10;
+// }
+
+// fun1() // a is not defined
+// ------------------
+
+// function fun1(){
+//   console.log(a)
+// var a=10;
+// }
+
+// fun1() //undefined
+// ------------------------
+
+// console.log(a) //undefined
+// {
+//   var a=10;
+// }
+
+// --------------------
+// var a=2;
+// function fun1(){
+//   console.log(a)
+// a=10;
+// }
+
+// fun1() //output 2
+
+// -------------------
+// var a=2;
+// function fun1(){
+//   console.log(a)
+// var a=10;
+// }
+
+// fun1() //output undefined
+
+
+
